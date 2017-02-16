@@ -1,0 +1,31 @@
+{
+    "name":"School of Fine Art",
+    "address":"1234 1st ave",
+    "courses":[
+        {
+            "subject":"chemistry",
+            "teacher":{
+                "name": "Mr. Baker",
+                "age": 28,
+                "isPresent":true
+            },
+            "studants":[
+                {
+                    "name": "Billy",
+                    "age": 15,
+                    "isPresent":true
+                },
+                {
+                    "name": "Sally",
+                    "age": 16,
+                    "isPresent":true
+                },
+                {
+                    "name": "Fred",
+                    "age": 15,
+                    "isPresent":false
+                }
+            ]
+        }
+    ]
+}

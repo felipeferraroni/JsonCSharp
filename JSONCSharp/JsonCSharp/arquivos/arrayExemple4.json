@@ -1,0 +1,22 @@
+[
+    {
+        "name":"apple",
+        "inSock":false,
+        "price":50
+    },
+    {
+        "name":"orange",
+        "inSock":true,
+        "price":40
+    },
+    {
+        "name":"potato",
+        "inSock":false,
+        "price":55
+    },
+    {
+        "name":"banana",
+        "inSock":true,
+        "price":75
+    }
+]

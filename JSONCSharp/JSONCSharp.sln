@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26206.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONCSharp", "JsonCSharp\JSONCSharp.csproj", "{603998B0-971E-497A-AA90-56B0BDBA4062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONDataStorage", "JSONDataStorage\JSONDataStorage.csproj", "{81EEEEB7-EBAD-44BE-A815-54758B662BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONNET", "JSONNET\JSONNET.csproj", "{AF07DFF9-5FF6-45FB-9603-42B2A40C8832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603998B0-971E-497A-AA90-56B0BDBA4062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603998B0-971E-497A-AA90-56B0BDBA4062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603998B0-971E-497A-AA90-56B0BDBA4062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603998B0-971E-497A-AA90-56B0BDBA4062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81EEEEB7-EBAD-44BE-A815-54758B662BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81EEEEB7-EBAD-44BE-A815-54758B662BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81EEEEB7-EBAD-44BE-A815-54758B662BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81EEEEB7-EBAD-44BE-A815-54758B662BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF07DFF9-5FF6-45FB-9603-42B2A40C8832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF07DFF9-5FF6-45FB-9603-42B2A40C8832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF07DFF9-5FF6-45FB-9603-42B2A40C8832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF07DFF9-5FF6-45FB-9603-42B2A40C8832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

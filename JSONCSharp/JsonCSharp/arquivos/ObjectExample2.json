@@ -1,0 +1,5 @@
+{
+    "type":"truck",
+    "wheels": 6,
+    "Colors": ["red","blue","green"]
+}
